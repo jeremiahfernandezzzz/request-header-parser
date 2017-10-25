@@ -23,6 +23,6 @@ var serv = http.createServer(function(req, res){
 	
 })
 
-serv.listen(123)
+serv.listen(process.env.PORT || 3000)
 /*
 */
