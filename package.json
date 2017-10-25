@@ -1,0 +1,20 @@
+{
+  "name": "request-header-parser",
+  "version": "1.0.0",
+  "description": "fcc backend web dev 2nd basejump",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeremiahfernandezzzz/request-header-parser.git"
+  },
+  "author": "jeremiahfernandezzzz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeremiahfernandezzzz/request-header-parser/issues"
+  },
+  "homepage": "https://github.com/jeremiahfernandezzzz/request-header-parser#readme"
+}
